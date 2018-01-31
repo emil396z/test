@@ -11,7 +11,7 @@ void setup() {
 
 // the loop function runs over and over again until power down or reset
 void loop() {
-	delay(100000000000);
+	delay(199999000);
 }
 // jeg er mega søg
 // hej med dig jeg hedder Kaj
